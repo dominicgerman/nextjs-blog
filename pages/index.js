@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm <strong>Dom</strong>. I'm a web developer and classical
-          singer. You can contact me on{' '}
+          Hello, I&apos;m <strong>Dom</strong>. I&apos;m a web developer and
+          classical singer. You can contact me on{' '}
           <a href="https://www.linkedin.com">LinkedIn</a>.
         </p>
         <p>
